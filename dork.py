@@ -68,12 +68,13 @@ clear()
 time.sleep(1)
 banner()
 med("""
-====================================================================
-[*] coded by root@x-krypt0n-x                                    [*]
-[*] Copyright 2020 SystemOfPekalongan                            [*]
-[*] just simple tools to make your life easier                   [*]
-[*] Thanks to ArdiRNN, not heker, warwer, jeager, nopebe7        [*]
-====================================================================""")
+===============================================================================
+[*] coded by root@x-krypt0n-x                                               [*]
+[*] Copyright 2020 SystemOfPekalongan                                       [*]
+[*] just simple tools to make your life easier                              [*]
+[*] Thanks to ArdiRNN, not heker, warwer, jeager, nopebe7, Arman1337        [*]
+[*] Thanks to TXT, RST, KBH, Sy, MCX, SCX                                   [*]
+===============================================================================""")
 time.sleep(2)
 
 try:
