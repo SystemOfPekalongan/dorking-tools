@@ -16,3 +16,7 @@ installation in termux
 
 
 ![image](https://user-images.githubusercontent.com/77189271/110579825-17d95d80-819a-11eb-983d-39008a8d0319.png)
+
+bisa buat cari bokep jg XD
+
+![WhatsApp Image 2021-03-10 at 2 46 09 PM](https://user-images.githubusercontent.com/77189271/110594879-ec616d80-81af-11eb-9210-4275bdb3b87b.jpeg)
