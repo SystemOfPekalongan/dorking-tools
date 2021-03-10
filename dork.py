@@ -1,12 +1,7 @@
 # mengedit nama author dan mereupload nya tidak akan membuat mu jago kawan
 # coded by root@x-krypt0n-x
 # 1 march - 10 march 2021
-# hayo mo ngapain kok buka source code?
-# mau recode ya bang?
-# yok belajar lagi >\\\\<
-# mengedit nama author dan mereupload nya tidak akan membuat mu jago kawan
-# coded by root@x-krypt0n-x
-# 1 march - 10 march 2021
+
 import sys
 import time
 import os
