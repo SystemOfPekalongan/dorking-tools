@@ -3,7 +3,6 @@
 # 1 march - 10 march 2021
 import sys
 import time
-import requests
 import os
 
 # custom speed strings
@@ -32,19 +31,6 @@ except ImportError:
     os.system("pip3 install google")
     time.sleep(3)
     med("[*] done ...")
-
-try:
-    from requests import requests
-except ImportError:
-    fast("[!] you mush install requests ...")
-    med("[*] wait a moment, this program will install the module ...")
-    os.system("pip3 install requests")
-    time.sleep(3)
-    med("[*] done ...")
-
-
-from requests import Session
-s = Session()
 
 def banner():
     print("""
