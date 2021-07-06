@@ -1,6 +1,8 @@
 # dorking-tools
 just simple tools to make your life easier
 
+demo : https://www.youtube.com/watch?v=xW1KecclYdo&t=4s
+
 installation in linux based debian
 1. git clone https://github.com/SystemOfPekalongan/dorking-tools.git
 2. sudo apt-get install python3
