@@ -74,6 +74,7 @@ med("""
 [*] Copyright 2020 SystemOfPekalongan                                       [*]
 [*] just simple tools to make your life easier                              [*]
 [*] Thanks to ArdiRNN, not heker, warwer, jeager                            [*]
+[*] https://github.com/UnknownSec666 disuruh bang jeg nambahin link github  [*]
 ===============================================================================""")
 time.sleep(2)
 
