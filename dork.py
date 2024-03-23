@@ -108,12 +108,11 @@ def akhir():
     try:
         dork = input("\n[*] enter your dork : ")
         uneed = input("[?] how much do you need : ")
-	tld_cok = input("[?] tld u want search: ")
         print ("\n ")
 
         requ = 0
 
-        for results in search(dork, tld=tld_cok, lang="en", num=int(uneed), start=0, stop=None, pause=2):
+        for results in search(dork, tld="com", lang="en", num=int(uneed), start=0, stop=None, pause=2):
             print ("[*]", results)
             time.sleep(0.1)
             requ += 1.
