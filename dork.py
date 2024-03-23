@@ -12,17 +12,17 @@ def slow(s):
     for c in s + '\n' :
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(12. / 100)
+        time.sleep(4. / 100)
 def med(s):
    for c in s + '\n' :
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(8. / 100)
+        time.sleep(2. / 100)
 def fast(s):
    for c in s + '\n' :
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(5. / 170)
+        time.sleep(1. / 170)
 
 try:
     from googlesearch import search
@@ -108,11 +108,12 @@ def akhir():
     try:
         dork = input("\n[*] enter your dork : ")
         uneed = input("[?] how much do you need : ")
+	tld_cok = input("[?] tld u want search: ")
         print ("\n ")
 
         requ = 0
 
-        for results in search(dork, tld="com", lang="en", num=int(uneed), start=0, stop=None, pause=2):
+        for results in search(dork, tld=tld_cok, lang="en", num=int(uneed), start=0, stop=None, pause=2):
             print ("[*]", results)
             time.sleep(0.1)
             requ += 1.
