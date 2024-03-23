@@ -12,17 +12,17 @@ def slow(s):
     for c in s + '\n' :
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(10. / 100)
+        time.sleep(12. / 100)
 def med(s):
    for c in s + '\n' :
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(4. / 100)
+        time.sleep(8. / 100)
 def fast(s):
    for c in s + '\n' :
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(2. / 170)
+        time.sleep(5. / 170)
 
 try:
     from googlesearch import search
